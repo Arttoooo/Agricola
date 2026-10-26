@@ -1,0 +1,11 @@
+{
+  "name": "Agricola Card Finder",
+  "short_name": "Card Finder",
+  "description": "Search your Agricola card database offline.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f5f0",
+  "theme_color": "#244b3a",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
